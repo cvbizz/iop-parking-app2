@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cvbizz.snack8742c24db81a4e499398aeb90c5bc222"
     },
     "android": {
       "adaptiveIcon": {
